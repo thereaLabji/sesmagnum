@@ -1,0 +1,9 @@
+[
+    {
+        "id": 0,
+        "root": "/index.html",
+        "webhook": false, // if you want you can use webhooks
+        "type": "html:html",
+        "publisher": "thereaLabji"
+    }
+]

@@ -1,0 +1,6 @@
+dns-record:
+    - type: srv
+    - domain: index.gg
+    - publisher: thereaLabji
+    - dns-ExternalRecords: ["09/05/2026"]
+dns: external
