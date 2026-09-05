@@ -219,4 +219,6 @@ __marimo__/
 
 # Screempy
 .screempy/
-.iseek.yml # config
+
+# Screempy Configs
+.iseek.yml
